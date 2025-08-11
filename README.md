@@ -208,11 +208,11 @@ The results of the predictive models are stored in the **`Results/`** folder, in
 ---
 
 ### **2. Linear Regression Model**
-- **File:** `Results/Linear Regression Result Chart.jpg`  
+- **File:** `Results/Linear Regression Result Char.jpg`  
 - Captures yield–catalyst ratio trends with polynomial regression extensions.
 
 <p align="center">
-  <img src="Results/Linear Regression Result Chart.jpg" width="60%" alt="Linear Regression Result">
+  <img src="Results/Linear Regression Result Char.jpg" width="60%" alt="Linear Regression Result">
 </p>
 
 ---
