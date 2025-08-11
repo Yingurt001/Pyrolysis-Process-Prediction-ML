@@ -106,11 +106,10 @@ Our approach offers insights into optimizing **biomass-to-energy conversion** pr
 
 ## 🛠️ Installation & Setup
 
-1. Clone the repository
-   ```bash
-   git clone https://github.com/YourUsername/Pyrolysis-Prediction.git
-   cd Pyrolysis-Prediction
-  ```
+ ```bash
+git clone https://github.com/YourUsername/Pyrolysis-Prediction.git
+cd Pyrolysis-Prediction
+```
 
 ## 🔄 Data Preprocessing
 
